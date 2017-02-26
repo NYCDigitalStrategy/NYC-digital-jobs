@@ -1,4 +1,6 @@
-See the NYC Innovation and Design Team recruiting site at: http://design4nyc.github.io
+See the NYC Mayor's Office of Digital Strategy Digital Design Coordinator site at: https://nycdigitalstrategy.github.io/NYC-digital-jobs/
+
+This site was adapted from code developed for the NYC Innovation and Design Team recruiting site at: http://buildwithnyc.github.io
 
 This site is built using Twitter Boostrap (http://getbootstrap.com/2.3.2/) and hosted on Github pages (https://pages.github.com/). It is entirely open source and free for you to use and improve upon. 
 
