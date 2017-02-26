@@ -75,5 +75,8 @@ a {
 .list-group-item-info {
   color: #ffffff;
   background-color: #ff304f;
-
-
+}
+.footer p {
+    font-size: 12px;
+    color: #fff;
+}
