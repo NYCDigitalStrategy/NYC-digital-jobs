@@ -4,6 +4,9 @@
 .greypanel {
     background-color: #ededed;
 }
+.blackpanel {
+    background-color: #000;
+}
 .bluepanel h1 {
     color: #fff;
 }
