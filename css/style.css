@@ -42,13 +42,13 @@ p .lead {
 }
 .btn-success {
     color: #fff;
-    background-color: #ff304f;
-    border-color: #ff304f;
+    background-color: #009b2c;
+    border-color: #009b2c;
     box-shadow: 0px 0px 2px #333;
 }
 .btn-success:hover {
-    background-color: #25237a;
-    border-color: #25237a;
+    background-color: #0a5796;
+    border-color: #0a5796;
 }
 .panel-primary {
     border-color: #118df0;
