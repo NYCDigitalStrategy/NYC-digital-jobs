@@ -1,5 +1,8 @@
-.jumbotron {
-    background-color: #118df0;
+.bluepanel {
+    background-color: #0a5796;
+}
+.greypanel {
+    background-color: #ededed;
 }
 .jumbotron h1 {
     color: #fff;
