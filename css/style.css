@@ -52,14 +52,16 @@ a {
 
 /* navbar */
 .navbar-default {
-    background-color: #ffffff;
-    border-color: #ffffff;
+    background-color: #000;
+    border-color: #000;
 }
     .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
     color: #25237a;
 }
-
+.odsname {
+    color: #fff;
+}
 
 .list-group-item-info {
   color: #ffffff;
