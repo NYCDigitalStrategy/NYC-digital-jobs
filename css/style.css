@@ -4,6 +4,9 @@
 .greypanel {
     background-color: #ededed;
 }
+.whitepanel {
+    background-color: #fff;
+}
 .blackpanel {
     background-color: #000;
 }
